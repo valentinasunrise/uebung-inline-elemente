@@ -22,11 +22,28 @@ h2{
 
 p{
 	font-size: 1rem;
+	display: inline-block;
+
 }
 
 .wrapper{
 	margin: 0 auto;
 	width:  600px;
 }
-
-
+img{
+	float: left;
+	margin: 0 1rem 1rem 0;
+}
+em{
+	font-weight: bold;
+}
+.rot{
+	color: red;
+}
+.initiale{
+	color: red;
+	font-size: 50px;
+	float:left;
+	margin-top: -10px;
+	margin-bottom: -19px;
+}
